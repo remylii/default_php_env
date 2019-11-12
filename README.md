@@ -13,7 +13,7 @@ $ docker-compose up  # docker-compose -d up
 
 ### web
 
--   nginx: latest
+-   nginx: 1.16
 
 ### app
 
